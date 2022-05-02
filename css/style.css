@@ -1,0 +1,10 @@
+body {background-color: #EAF6F6;}
+h1 {color: orange;}
+h3 {color: red;}
+h4 {color: purple;}
+label{color: green;}
+hr{ border-style: ridge none none;
+border-color: red;
+height: 20px;
+border-width: 10px
+}
